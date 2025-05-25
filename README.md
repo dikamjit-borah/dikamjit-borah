@@ -43,25 +43,38 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **[LuxTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
-Proof of Concept for tracking luxury goods using smart contracts on Ethereum. Built with **Solidity + Foundry + Node.js**
-🔹 **[Testato](https://github.com/dikamjit-borah/Testato-Backend)**  
-A microservice-based medicine search platform integrating ERP data from pharmacies and enabling users to locate medicines via an Android app. Built with **Nest.js + RabbitMQ + Algolia + Android**
-🔹 **[Molia](https://github.com/dikamjit-borah/Molia-Backend)**  
-A movie listing and tracking app that lets users save watched films, favorites, and curate personal watchlists. Built with **Node.js + MongoDB + Android**
-🔹 **[Sountry](https://github.com/dikamjit-borah/Sountry)**  
-A social networking platform for musicians offering music taste-based discovery, connection requests, and in-app chat. Built with **Node.js + PostgreSQL + Firebase + Android**
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikamjit-borah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikamjit-borah&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **[LuxTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
+Proof of Concept for tracking luxury goods using smart contracts on Ethereum.  
+Built with **Solidity + Foundry + Node.js**
+
+---
+
+🔹 **[Testato](https://github.com/dikamjit-borah/Testato-Backend)**  
+A microservice-based medicine search platform integrating ERP data from pharmacies and enabling users to locate medicines via an Android app.  
+Built with **Nest.js + RabbitMQ + Algolia + Android**
+
+---
+
+🔹 **[Molia](https://github.com/dikamjit-borah/Molia-Backend)**  
+A movie listing and tracking app that lets users save watched films, favorites, and curate personal watchlists.  
+Built with **Node.js + MongoDB + Android**
+
+---
+
+🔹 **[Sountry](https://github.com/dikamjit-borah/Sountry)**  
+A social networking platform for musicians offering music taste-based discovery, connection requests, and in-app chat.  
+Built with **Node.js + PostgreSQL + Firebase + Android**
 
 ---
 
