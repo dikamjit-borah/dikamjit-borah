@@ -17,15 +17,18 @@
 <div align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 </div>
 
 **Databases**
 <div align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </div>
@@ -35,15 +38,21 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **[LuxTrack DApp](https://github.com/dikamjit-borah/LuxeTrack)**  
-Proof of Concept for tracking luxury goods using smart contracts on Ethereum. Built with **Solidity + Foundry + Next.js**.
+🔹 **[LuxTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
+Proof of Concept for tracking luxury goods using smart contracts on Ethereum. Built with **Solidity + Foundry + Node.js**
+🔹 **[Testato](https://github.com/dikamjit-borah/Testato-Backend)**  
+A microservice-based medicine search platform integrating ERP data from pharmacies and enabling users to locate medicines via an Android app. Built with **Nest.js + RabbitMQ + Algolia + Android**
+🔹 **[Molia](https://github.com/dikamjit-borah/Molia-Backend)**  
+A movie listing and tracking app that lets users save watched films, favorites, and curate personal watchlists. Built with **Node.js + MongoDB + Android**
+🔹 **[Sountry](https://github.com/dikamjit-borah/Sountry)**  
+A social networking platform for musicians offering music taste-based discovery, connection requests, and in-app chat. Built with **Node.js + PostgreSQL + Firebase + Android**
 
 ---
 
