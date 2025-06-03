@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[LuxTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
+🔹 **[LuxeTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
 Proof of Concept for tracking luxury goods using smart contracts on Ethereum.  
 Built with **Solidity + Foundry + Node.js**
 
