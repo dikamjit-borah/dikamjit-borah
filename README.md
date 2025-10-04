@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Dikamjit</h1>
 <p align="center">
-  🚀 Full-stack Developer | ⚙️ Backend Engineer | 🔗 Blockchain Enthusiast
+  🚀 Full Stack Developer | ⚙️ Backend Engineer | 🔗 Blockchain Enthusiast
+</p>
+<p>I am a software engineer focused on building high-performance, reliable APIs and scalable microservices. I specialize in Node.js ecosystem and design event-driven architectures, distributed systems, and production-ready deployments.
 </p>
 
 <p align="center">
@@ -11,24 +13,18 @@
 
 ---
 
-## About Me
+## ⚙️ My Core Skills
 
-I am a backend engineer specializing in Node.js, NestJS, and Express.js, with expertise in building scalable microservices, event-driven architectures, and APIs. I have extensive experience working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firebase, Firestore) databases.
-
-My expertise spans across multiple development areas:
-
-- Backend Development
-- Frontend Development
-- Automation and Scripting
-- AI Prompting/Engineering
-
-Beyond backend development, I have experience in Android development (Kotlin, Java) and am proficient in web scraping and automation (Python, Beautiful Soup, Selenium). I have also worked on DevOps, cloud infrastructure (AWS, Docker, Kubernetes), and CI/CD pipelines to optimize deployment workflows.
-
-Additionally, I have hands-on experience in blockchain and smart contract development (Solidity, Foundry), as well as integrating AI-driven automation into workflows. My focus is on delivering high-performance, reliable, and scalable solutions.
+- Backend architecture: microservices, event-driven systems, and REST APIs
+- Databases: relational and NoSQL modeling, migrations, and performance tuning
+- Deployment: Docker, CI/CD pipelines, and cloud infrastructure (AWS)
+- Automation & scraping: Python (Beautiful Soup, Selenium) and scripting for data workflows
+- Mobile backend / Android apps (Kotlin & Java)
+- Blockchain & smart contracts: Solidity development and Foundry-based testing
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### Backend & Databases
 <div align="left">
