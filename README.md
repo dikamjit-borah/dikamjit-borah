@@ -11,6 +11,23 @@
 
 ---
 
+## About Me
+
+I am a backend engineer specializing in Node.js, NestJS, and Express.js, with expertise in building scalable microservices, event-driven architectures, and APIs. I have extensive experience working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firebase, Firestore) databases.
+
+My expertise spans across multiple development areas:
+
+- Backend Development
+- Frontend Development
+- Automation and Scripting
+- AI Prompting/Engineering
+
+Beyond backend development, I have experience in Android development (Kotlin, Java) and am proficient in web scraping and automation (Python, Beautiful Soup, Selenium). I have also worked on DevOps, cloud infrastructure (AWS, Docker, Kubernetes), and CI/CD pipelines to optimize deployment workflows.
+
+Additionally, I have hands-on experience in blockchain and smart contract development (Solidity, Foundry), as well as integrating AI-driven automation into workflows. My focus is on delivering high-performance, reliable, and scalable solutions.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend & Databases
