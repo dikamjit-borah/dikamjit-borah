@@ -66,15 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikamjit-borah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikamjit-borah&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 🔹 **[LuxeTrack DApp](https://github.com/dikamjit-borah/luxetrack-smartcontract)**  
