@@ -98,12 +98,3 @@ Built with **Node.js + PostgreSQL + Firebase + Android**
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://dikamjit-borah.github.io)
 
 ---
-
-<details>
-  <summary>⚡ Fun Facts</summary>
-  <ul>
-    <li>🧠 Love automating workflows with AI agents</li>
-    <li>🎧 Always building something while listening to synthwave</li>
-    <li>🕵️‍♂️ I enjoy diving into cosmic horror and analog conspiracies</li>
-  </ul>
-</details>
